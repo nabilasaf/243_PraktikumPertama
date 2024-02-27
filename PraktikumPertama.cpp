@@ -22,6 +22,8 @@ int main()
     nLuas = nAlas * nTinggi   / 2;
     cout << "Luasnya = " << nLuas;
     cout << "Masukan Penting";
+    cout << "Masuk Angin";
+
 
 
 }
