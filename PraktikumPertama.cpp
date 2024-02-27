@@ -21,7 +21,7 @@ int main()
     cin >> nTinggi;
     nLuas = nAlas * nTinggi   / 2;
     cout << "Luasnya = " << nLuas;
-
+    cout << "Masukan port"
 
 }
 
